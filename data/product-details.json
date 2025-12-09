@@ -1,0 +1,262 @@
+[
+{
+  "id": 1,
+  "name": "Trango Detergent Powder",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/ln-1kg.jpeg",
+  "price": "₹100",
+  "size": "1kg",
+  "tagline": "Better quality at lower prices.",
+  "description": "Trango All In One Detergent Powder delivers superior cleaning with its advanced formula. It removes tough stains, leaves clothes bright, and gives long-lasting fragrance. Each 1kg pack comes with a free 250g dishwasher tub worth ₹40.",
+  "features": [
+    "Removes tough stains effectively",
+    "Leaves clothes bright and fresh",
+    "Mild on hands and fabric",
+    "Long-lasting fragrance",
+    "Free 250g Dishwasher Tub worth ₹40"
+  ],
+  "offer": {
+    "freeProduct": "Dishwasher Tub",
+    "quantity": "250g",
+    "worth": "₹40"
+  }
+},
+
+
+
+
+ {
+  "id": 2,
+  "name": "Shampoo",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/2.jpeg",
+  "price": "₹1",
+  "size": "ml",
+  "tagline": "Deep Nourishment. Silky Shine.",
+  "description": "This shampoo gently cleanses your scalp while providing deep nourishment to your hair. Infused with natural oils and proteins, it promotes smoothness, strength, and long-lasting shine.",
+  "features": [
+    "Gently cleanses scalp and hair",
+    "Enriched with natural oils and proteins",
+    "Adds shine and softness",
+    "Reduces hair fall and breakage",
+    "Suitable for all hair types"
+  ]
+},
+
+  {
+  "id": 3,
+  "name": "Trango Toilet Cleaner",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/toilet-cleaner.png",
+  "price": "₹50",
+  "size": "500ml",
+  "tagline": "Cleaning Expert for Your Toilet",
+  "description": "Trango Toilet Cleaner is a powerful disinfectant specially formulated to remove tough stains, kill 99.9% of germs, and leave your toilet fresh. With 10X cleaning power compared to ordinary bleach and powder, it ensures deep hygiene with every use.",
+  "features": [
+    "Kills 99.9% of germs* within 5 minutes",
+    "10X power against tough stains",
+    "Leaves a long-lasting fresh fragrance",
+    "Suitable for Indian toilets and septic tanks",
+    "Safe with proper usage and precautions"
+  ]
+},
+  
+  {
+  "id": 4,
+  "name": "Trango chotu pack",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/ln-10rs.jpeg",
+  "price": "₹10",
+  "size": "150gm",
+  "tagline": "Eco-Friendly. Deep Clean.",
+  "description": "Trango Eco Wash is designed for the environmentally conscious, offering powerful cleaning with biodegradable ingredients.",
+  "features": [
+    "Biodegradable formula",
+    "Low water consumption",
+    "Gentle on clothes",
+    "Safe for sensitive skin",
+    "Eco-conscious packaging"
+  ],
+  "offer": [
+    {
+      "freeProduct": "Shampoo Pouch",
+      "quantity": "1 pouch",
+      "worth": "₹1"
+    }
+  ]
+},
+
+ {
+  "id": 5,
+  "name": "Trango Dishwash Bar",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/dishbar.png",
+  "price": "₹40",
+  "size": "250g",
+  "tagline": "Extra Shine & Clean with Active Lemon",
+  "description": "Trango Dishwasher Bar delivers powerful grease-cutting action with the freshness of lemon. Designed to tackle oily stains and tough residues, it leaves utensils sparkling clean with a refreshing scent.",
+  "features": [
+    "10X grease-cutting power",
+    "Contains active lemon extract",
+    "Removes tough oil and food stains",
+    "Safe for hands and effective on steel",
+    "Comes with a free scrubber"
+  ]
+},
+
+  {
+    "id": 6,
+    "name": "Trango Quick Wash",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/11.jpeg",
+    "price": "₹135",
+    "size": "800g",
+    "tagline": "Fast Results. No Compromise.",
+    "description": "Ideal for busy households, this fast-action detergent delivers spotless clothes in less time.",
+    "features": [
+      "Quick dissolving formula",
+      "Effective in short wash cycles",
+      "Saves time and water",
+      "Cleans without residue",
+      "Perfect for daily use"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Trango Lemon Fresh",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/9.jpg",
+    "price": "₹145",
+    "size": "1kg",
+    "tagline": "Lemon Zest for Cleaner Clothes.",
+    "description": "Infused with lemon extracts, it not only cleans but also refreshes your laundry with a citrusy burst.",
+    "features": [
+      "Citrus-based stain removal",
+      "Fresh lemon fragrance",
+      "Kills germs and odors",
+      "Leaves no residue",
+      "Ideal for summer use"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "Trango Supreme White",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/8.jpeg",
+    "price": "₹160",
+    "size": "1kg",
+    "tagline": "For Sparkling Whites Every Time.",
+    "description": "Designed especially for white clothes, Trango Supreme White restores brightness and removes dullness.",
+    "features": [
+      "Whitens and brightens",
+      "Prevents yellowing",
+      "Anti-greying technology",
+      "Perfect for school uniforms",
+      "UV protection for fabrics"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Trango Active Power",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/7.jpeg",
+    "price": "₹155",
+    "size": "1kg",
+    "tagline": "All-Day Active Clean.",
+    "description": "Packed with active enzymes to break down dirt and grease, delivering a professional-grade clean.",
+    "features": [
+      "Enzyme-boosted formula",
+      "Removes grease and sweat",
+      "Long-lasting freshness",
+      "Best for work clothes",
+      "Deep fiber penetration"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Trango Fresh Scent",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/2.jpeg",
+    "price": "₹130",
+    "size": "1kg",
+    "tagline": "Long-Lasting Freshness.",
+    "description": "Leaves your clothes with a lasting floral scent while giving a thorough clean every time.",
+    "features": [
+      "Advanced fragrance lock",
+      "Works in all water types",
+      "Suitable for all fabrics",
+      "No harsh chemicals",
+      "Keeps clothes fresh for 24 hours"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "Trango Liquid Detergent",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/liquid1.jpg",
+    "price": "₹180",
+    "size": "500ml",
+    "tagline": "Liquid Power for Delicates.",
+    "description": "Perfect for delicate fabrics and front-load machines, this liquid detergent ensures no residue and silky finish.",
+    "features": [
+      "No residue formula",
+      "Safe for silk and wool",
+      "Ideal for front-load machines",
+      "Easy-to-pour design",
+      "Neutral pH balance"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "Trango Color Guard",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/10.jpeg",
+    "price": "₹145",
+    "size": "1kg",
+    "tagline": "Protects Colors. Fights Stains.",
+    "description": "Trango Color Guard ensures your clothes retain their vibrancy even after multiple washes.",
+    "features": [
+      "Color-protection formula",
+      "Prevents fading",
+      "Stain-fighting ingredients",
+      "Safe for mixed loads",
+      "No bleach required"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "Trango Budget Pack",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/5.jpeg",
+    "price": "₹99",
+    "size": "500g",
+    "tagline": "Affordable Clean Every Day.",
+    "description": "Quality cleaning at an unbeatable price. Great for daily washing needs in budget-conscious households.",
+    "features": [
+      "Economical formula",
+      "Sufficient for family use",
+      "Good foaming action",
+      "Works in all wash types",
+      "Convenient for bulk use"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "Trango Premium Care",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/12.jpeg",
+    "price": "₹199",
+    "size": "1.2kg",
+    "tagline": "Premium Wash. Premium Feel.",
+    "description": "High-performance detergent for luxurious care of clothes, combining fabric conditioner and deep clean.",
+    "features": [
+      "Built-in softener",
+      "Brightens and protects fabric",
+      "Elegant aroma",
+      "Prevents shrinkage",
+      "Ideal for premium fabrics"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "Trango Heavy Duty",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/6.jpg",
+    "price": "₹165",
+    "size": "1.5kg",
+    "tagline": "Built for Industrial Strength.",
+    "description": "Trango Heavy Duty is perfect for uniforms, overalls, and heavily soiled clothes from industrial environments.",
+    "features": [
+      "Industrial-grade cleaning",
+      "Targets oil and grease",
+      "High-foam action",
+      "Works in hard water",
+      "Used by commercial laundries"
+    ]
+  }
+]
