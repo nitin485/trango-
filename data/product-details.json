@@ -164,6 +164,22 @@
     ]
   },
   {
+  "id": 16,
+  "name": "Trango Fabric Care Liquid",
+  "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/trangocomfort.jpg?updatedAt=1773281156184",
+  "price": "₹120",
+  "size": "500ml",
+  "tagline": "Gentle Care, Powerful Clean.",
+  "description": "Special liquid detergent designed for fabric care with a powerful cleaning formula that removes stains while keeping clothes soft and fresh.",
+  "features": [
+    "Liquid detergent formula",
+    "Safe for all fabrics",
+    "Removes tough stains",
+    "Pleasant long-lasting fragrance",
+    "Suitable for hand & machine wash"
+  ]
+},
+  {
     "id": 10,
     "name": "Trango Fresh Scent",
     "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/2.jpeg",
@@ -246,7 +262,7 @@
   {
     "id": 15,
     "name": "Trango Heavy Duty",
-    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/6.jpg",
+    "image": "https://ik.imagekit.io/0v38qxk7k/assets/product_img/trangocomfort.jpg?updatedAt=1773281156184",
     "price": "₹165",
     "size": "1.5kg",
     "tagline": "Built for Industrial Strength.",
